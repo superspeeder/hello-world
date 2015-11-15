@@ -1,1 +1,5 @@
-# hello-world
+hello-world
+======================
+the hello world example
+
+----------------------
